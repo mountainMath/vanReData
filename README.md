@@ -1,9 +1,16 @@
 # vanReData
 Sieving through data sources to inform discussion on the Vancouver real estate market.
 
+#### Current Sections
+
+* [FAQ](https://github.com/mountainMath/vanReData/blob/master/Questions.md)
+* [Data Sources](https://github.com/mountainMath/vanReData/blob/master/DataSources.md)
+* [Zoning and Land Use Primer](https://github.com/mountainMath/vanReData/blob/master/ZoningLandUse.md)
+
 The idea behind this repository is for me to keep track of data or analyses relating in some way to the extraordinary
-value gains in the Vancouver real easte market. And have a place where their quality, implications and limitations can
+value gains in the Vancouver real estate market. And have a place where their quality, implications and limitations can
 be discussed.
+
 
 ## Why git and why a public repository?
 It keeps me honest. Data is messy and I learn of new data sources all the time. I misunderstand data. I get stuff wrong.
@@ -23,3 +30,4 @@ Don't like my style or judgement? Not a problem, just [fork](https://github.com/
 the project, make whatever changes you like and continue your own version.
 
 I [thought about this before](http://doodles.mountainmath.ca/blog/2016/02/01/loss-of-character/), it's time to try this out. 
+
