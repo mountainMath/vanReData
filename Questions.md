@@ -1,6 +1,6 @@
 # Questions
 
-# Home much land to Single Detached Homes take up in Vancouver? ([Issue request](https://github.com/mountainMath/vanReData/issues/1))
+# Home much land do Single Detached Homes take up in Vancouver? ([Issue request](https://github.com/mountainMath/vanReData/issues/1))
 There are fundamentally two answers to this question, depending on the purpose. One could be interested in how much land
 is currently zoned to only allow single family homes to be built on, or one can be interested in how much land is currently
 used for single detached homes.
