@@ -3,9 +3,10 @@ Sieving through data sources to inform discussion on the Vancouver real estate m
 
 #### Current Sections
 
-* [FAQ](https://github.com/mountainMath/vanReData/blob/master/Questions.md)
+* [Answered Questions](https://github.com/mountainMath/vanReData/blob/master/Questions.md)
 * [Data Sources](https://github.com/mountainMath/vanReData/blob/master/DataSources.md)
-* [Zoning and Land Use Primer](https://github.com/mountainMath/vanReData/blob/master/ZoningLandUse.md)
+* [Terminology](https://github.com/mountainMath/vanReData/blob/master/Terminology.md)-->
+* [Open Questions](https://github.com/mountainMath/vanReData/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
 
 The idea behind this repository is for me to keep track of data or analyses relating in some way to the extraordinary
 value gains in the Vancouver real estate market. And have a place where their quality, implications and limitations can
