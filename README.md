@@ -5,7 +5,7 @@ Sieving through data sources to inform discussion on the Vancouver real estate m
 
 * [Answered Questions](https://github.com/mountainMath/vanReData/blob/master/Questions.md)
 * [Data Sources](https://github.com/mountainMath/vanReData/blob/master/DataSources.md)
-* [Terminology](https://github.com/mountainMath/vanReData/blob/master/Terminology.md)-->
+* [Terminology](https://github.com/mountainMath/vanReData/blob/master/Terminology.md)
 * [Open Questions](https://github.com/mountainMath/vanReData/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion)
 
 The idea behind this repository is for me to keep track of data or analyses relating in some way to the extraordinary
