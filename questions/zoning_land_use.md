@@ -5,7 +5,7 @@ There are a number of ways to slice variations of this question.
 
 * 33% of overall land is taken up by single family properties, 34% of land is occupied by single family and duplex properties
 * 35% of all households live on single family and duplex properties making up 81% of Vancouver's residential land,
-while the remaining 75% of households live on 19% of the residential land.
+while the remaining 65% of households live on 19% of the residential land.
 * 42% of land is used for residential or mixed use properties, 81% of this residential land is used for single detached
 and duplex properties. 
 
